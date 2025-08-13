@@ -5,6 +5,9 @@ public class Food {
     public int timeToCook = 300;
     public String smell = "sweet smell";
 
+    public Food(){
+        System.out.println("myconstructor");
+    }
     public static void main(String[] args) {
 
         prepareKova();

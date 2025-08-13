@@ -4,7 +4,7 @@ public class Operators {
 
     public static void main(String[] args) {
 
-//        arthematicOperators();
+        arthematicOperators();
         assignmentOperators();
         relationalOperators();
     }
