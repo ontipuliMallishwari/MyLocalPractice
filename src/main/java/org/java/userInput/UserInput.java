@@ -8,9 +8,9 @@ public class UserInput {
 
         Scanner scanner = new Scanner(System.in);
         System.out.println("Input Integer");
-        Integer intData=scanner.nextInt();
+        Integer intData=scanner.nextInt(); // reads input from console
         System.out.println("Input long");
-        Long longData= scanner.nextLong();
+        Long longData= scanner.nextLong(); // reads input from console
         System.out.println("Input float");
         Float floatData= scanner.nextFloat();
         System.out.println("Input double");
